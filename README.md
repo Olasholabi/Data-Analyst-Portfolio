@@ -24,8 +24,8 @@ Profit margin stands at 60.3%, indicating strong cost efficiency
 Certain salespersons consistently outperform in both revenue and margin
 Shipment volume shows a declining trend across the observed period
 
-🖼️ Dashboard Preview![Portfolio Dashboard](Screenshot of Dashboard.png)
 
 See the full Dashbobard here - [Power BI App Link](https://app.powerbi.com/view?r=eyJrIjoiNWI0MjE2NDQtYzZkMy00N2JlLWE4NzUtZThiZGJiMTVmNjhkIiwidCI6IjU4MTgxNmIyLWMwYmUtNGVhYS04MGUzLTI5ZTVmMjQ4NjQ5NCIsImMiOjh9)
 
 
+🖼️ Dashboard Preview![Portfolio Dashboard](images/Screenshot of Dashboard.png)
